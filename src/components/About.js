@@ -7,7 +7,7 @@ const About = () => {
             <div className="left">
               <div className="left_inner">
                 <div className="year">
-                  <h3>7</h3>
+                  <h3>4</h3>
                   <span className="rounded">
                     <img src="img/about/flower.png" alt="" />
                   </span>
@@ -27,13 +27,14 @@ const About = () => {
             <div className="right">
               <div className="title">
                 <span>Have A Nice Day!</span>
-                <h3>{`I'm`} Looking For UX/UI Designer.</h3>
+                <h3>{`I'm`} Looking For Frontend Developer.</h3>
               </div>
               <div className="text">
                 <p>
-                  With 20 years experience as a professional a graphic designer,
-                  I have acquired the skills and knowledge necessary to make
-                  your project a success.
+                Experienced Frontend Developer, adept in bringing forth expertise in
+design, installation, testing, and maintenance of software systems,
+specializing in creating the beautiful, yet functional websites and
+digital interfaces.
                 </p>
               </div>
               <div className="dodo_progress">
@@ -53,7 +54,7 @@ const About = () => {
                         <div className="percent">
                           <img
                             className="svg"
-                            src="img/svg/photoshop.svg"
+                            src="img/svg/reactjs.svg"
                             alt=""
                           />
                           <span className="number">90%</span>
@@ -65,7 +66,7 @@ const About = () => {
                     <div className="list_inner">
                       <div
                         className="progress_inner skillsInner___"
-                        data-value={75}
+                        data-value={80}
                         data-color="#0ACF83"
                       >
                         <div className="background">
@@ -74,8 +75,8 @@ const About = () => {
                           </div>
                         </div>
                         <div className="percent">
-                          <img className="svg" src="img/svg/xd.svg" alt="" />
-                          <span className="number">75%</span>
+                          <img className="svg" src="img/svg/laravel.svg" alt="" />
+                          <span className="number">80%</span>
                         </div>
                       </div>
                     </div>
@@ -93,7 +94,7 @@ const About = () => {
                           </div>
                         </div>
                         <div className="percent">
-                          <img className="svg" src="img/svg/figma.svg" alt="" />
+                          <img className="svg" src="img/svg/sanity.svg" alt="" />
                           <span className="number">80%</span>
                         </div>
                       </div>

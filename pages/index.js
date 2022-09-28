@@ -32,20 +32,14 @@ const Index = () => {
       {/* ABOUT */}
       <About />
       {/* /ABOUT */}
-      {/* SERVICE */}
-      <Service />
-      {/* /SERVICE */}
-      {/* PORTFOLIO */}
-      <Portfolio />
-      {/* /PORTFOLIO */}
       {/* TIMELINE */}
       <TimeLine />
       {/* /TIMELINE */}
-      {/* PRICING */}
-      <Priceing />
-      {/* /PRICING */}
-      {/* TESTIMONIALS */}
-      <Testimonials />
+      {/* PORTFOLIO */}
+      <Portfolio />
+      {/* /PORTFOLIO */}
+      
+   
 
       {/* /TESTIMONIALS */}
       {/* NEWS */}

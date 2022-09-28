@@ -58,9 +58,9 @@ const Contact = () => {
             <div className="contact_box">
               <div className="title wow fadeInUp" data-wow-duration="1s">
                 <h3>
-                  I want to hear from
+                  I want to hear from you
                   <br />
-                  you please{" "}
+                  please{" "}
                   <a
                     className="contact_modalbox_link c-pointer"
                     onClick={() => setActive(true)}
@@ -73,8 +73,8 @@ const Contact = () => {
             <div className="short wow fadeInUp" data-wow-duration="1s">
               <div className="left">
                 <span>
-                  <a href="mailto:infomaya.tonni@gmail.com">
-                    infomaya.tonni@gmail.com
+                  <a href="mailto:sawmukahbaw191@gmail.com">
+                    sawmukahbaw191@gmail.com
                   </a>
                   <img className="svg" src="img/svg/vector3.svg" alt="" />
                 </span>
@@ -124,11 +124,11 @@ const Contact = () => {
                   <p>
                     © {new Date().getFullYear()} by{" "}
                     <a
-                      href="https://themeforest.net/user/codeefly"
+                      href="https://mukabaw.com"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      Codeefly.
+                      mukahbaw.
                     </a>{" "}
                     All rights reserved.
                   </p>

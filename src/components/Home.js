@@ -12,7 +12,7 @@ const Home = () => {
               <h3 className="name">
                 <span>I</span> am
                 <br />
-                Mu Ka Hbaw.
+                MuKaHbaw
               </h3>
               <span className="welcome">Welcome to my portfolio</span>
               <div className="tonni_tm_button">
