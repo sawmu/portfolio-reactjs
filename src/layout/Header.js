@@ -12,7 +12,7 @@ const Header = () => {
         <div className="header_in">
           <div className="logo">
             <a href="#">
-              <img src="img/logo/logo.png" alt="" />
+              <img src="img/logo/logo.png" width="50" height="40" alt="" />
             </a>
           </div>
           <div className="menu">
@@ -23,9 +23,7 @@ const Header = () => {
               <li>
                 <a href="#about">About</a>
               </li>
-              <li>
-                <a href="#service">Service</a>
-              </li>
+              
               <li>
                 <a href="#portfolio">Portfolio</a>
               </li>

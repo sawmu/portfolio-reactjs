@@ -12,8 +12,7 @@ const TimeLine = () => {
                 </div>
                 <div className="subtitle">
                   <p>
-                    Fusce sollicitudin eros id ex maximus gravida non vitae
-                    ante. Cras ac mi a dolor suscipit rutrum ut vitae mi.
+                    Experienced web developer and UI UX designer, specialized in creating beautiful, yet functional websites and digital interfaces.
                   </p>
                 </div>
               </div>
@@ -27,17 +26,16 @@ const TimeLine = () => {
                           <div className="details">
                             <img
                               className="svg"
-                              src="img/svg/social/be.svg"
+                              src="img/svg/social/phoenix.svg"
                               alt=""
                             />
                             <div className="title">
-                              <h3>UI/UX Designer</h3>
-                              <span>Senior Designer</span>
+                              <h3>Web Developer</h3>
+                              <span>Firstcom Solution Pte Ltd</span>
                             </div>
                             <div className="text">
                               <p>
-                                Nunc hendrerit, justo vel ultricieselei fen
-                                pretium leo, ac finibus nulla eros.
+                               Laravel | Opencart | Wordpress  
                               </p>
                             </div>
                           </div>
@@ -46,7 +44,7 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="year">
-                            <span>2020-now</span>
+                            <span>2021-now</span>
                           </div>
                         </div>
                       </li>
@@ -74,13 +72,12 @@ const TimeLine = () => {
                               alt=""
                             />
                             <div className="title">
-                              <h3>Graphic Designer</h3>
-                              <span>Junior Designer</span>
+                              <h3>Web Designer &amp; Developer</h3>
+                              <span>Myanmar Brilliant Stars Co., Ltd</span>
                             </div>
                             <div className="text">
                               <p>
-                                Nunc hendrerit, justo vel ultricieselei fen
-                                pretium leo, ac finibus nulla eros.
+                                Wordpress | Laravel | React | Adobe Photoshop | Adobe Premiere Pro
                               </p>
                             </div>
                           </div>
@@ -89,7 +86,7 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="year">
-                            <span>2018-2020</span>
+                            <span>2018-2021</span>
                           </div>
                         </div>
                       </li>
@@ -113,17 +110,16 @@ const TimeLine = () => {
                           <div className="details">
                             <img
                               className="svg"
-                              src="img/svg/social/instagram.svg"
+                              src="img/svg/social/webdeveloper.svg"
                               alt=""
                             />
                             <div className="title">
-                              <h3>Content Manager</h3>
-                              <span>Sales Manager</span>
+                              <h3>Team Leader</h3>
+                              <span>Phoenix Developer Group</span>
                             </div>
                             <div className="text">
                               <p>
-                                Nunc hendrerit, justo vel ultricieselei fen
-                                pretium leo, ac finibus nulla eros.
+                                ReactJS | React Native | NextJS | ThreeJS | Laravel | Wordpress
                               </p>
                             </div>
                           </div>
