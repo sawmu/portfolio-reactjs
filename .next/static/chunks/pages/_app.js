@@ -320,7 +320,7 @@ module.exports = __webpack_require__.p + "static/media/1.31191012.png";
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = __webpack_require__.p + "static/media/1.3d31d77f.jpg";
+module.exports = __webpack_require__.p + "static/media/1.285b6298.jpg";
 
 /***/ })
 
