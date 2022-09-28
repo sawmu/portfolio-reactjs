@@ -44,7 +44,7 @@ const Home = () => {
         <span className="shape3">
           <img className="svg" src="img/svg/icon3.svg" alt="" />
         </span>
-        <span className="shape4">
+        <span className="shape4"></span>
           <img className="svg anim_circle" src="img/svg/icon6.svg" alt="" />
         </span>
         <span className="shape5">
