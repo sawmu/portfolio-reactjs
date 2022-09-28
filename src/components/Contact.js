@@ -10,51 +10,7 @@ const Contact = () => {
       <div className="tonni_tm_section" id="contact">
         <div className="tonni_tm_contact">
           <div className="container">
-            <div
-              className="tonni_tm_counter_list wow fadeInUp"
-              data-wow-duration="1s"
-            >
-              <ul>
-                <li>
-                  <div className="list_inner">
-                    <span className="title">
-                      Product Sale Per Day Using Out Tools
-                    </span>
-                    <h3>
-                      <Counter end={31} />K
-                    </h3>
-                  </div>
-                </li>
-                <li>
-                  <div className="list_inner">
-                    <span className="title">Downloaded Total In 2018-2022</span>
-                    <h3>
-                      <Counter end={50} />M
-                    </h3>
-                  </div>
-                </li>
-                <li>
-                  <div className="list_inner">
-                    <span className="title">
-                      Product Sale Per Day Using Out Tools
-                    </span>
-                    <h3>
-                      <Counter end={900} />+
-                    </h3>
-                  </div>
-                </li>
-                <li>
-                  <div className="list_inner">
-                    <span className="title">
-                      Quality and Satisfaction Guarantee
-                    </span>
-                    <h3>
-                      <Counter end={100} />%
-                    </h3>
-                  </div>
-                </li>
-              </ul>
-            </div>
+           
             <div className="contact_box">
               <div className="title wow fadeInUp" data-wow-duration="1s">
                 <h3>
