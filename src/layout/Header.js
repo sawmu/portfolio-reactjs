@@ -45,7 +45,7 @@ const Header = () => {
                 </a>
               </li>
               <li>
-                <a href="https://wa.me/86572648" target="_blank" rel="noreferrer">
+                <a href="https://wa.me/6586572648" target="_blank" rel="noreferrer">
                   <img
                     className="svg"
                     src="img/svg/social/whatapp.svg"
