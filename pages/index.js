@@ -36,7 +36,7 @@ const Index = () => {
       <TimeLine />
       {/* /TIMELINE */}
       {/* PORTFOLIO */}
-      <Portfolio />
+    
       {/* /PORTFOLIO */}
       
    
