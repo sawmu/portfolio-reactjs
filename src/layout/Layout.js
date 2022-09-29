@@ -23,9 +23,11 @@ const Layout = ({ children, title }) => {
           href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
           rel="stylesheet"
         />
-        <title>Tonni | {title ? title : "Home"}</title>
+
+        <link rel="icon" href="/img/logo/logo.png" />
+        <title>Saw | {title ? title : "Portfolio"}</title>
       </Head>
-      <PreLoader />
+  
       <VideoPopup />
       <ImageView />
       <div className="tonni_tm_all_wrap" data-magic-cursor="show">

@@ -51,10 +51,10 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="image">
-                            <img src="img/thumbs/37-25.jpg" alt="" />
+                            <img src="img/logo/first.jpg" alt="" />
                             <div
                               className="main"
-                              data-img-url="img/timeline/1.jpg"
+                              data-img-url="img/logo/first.jpg"
                             />
                           </div>
                         </div>
@@ -93,10 +93,10 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="image">
-                            <img src="img/thumbs/37-25.jpg" alt="" />
+                            <img src="img/logo/mm.jpg" alt="" />
                             <div
                               className="main"
-                              data-img-url="img/timeline/2.jpg"
+                              data-img-url="img/logo/mm.jpg"
                             />
                           </div>
                         </div>
@@ -135,10 +135,10 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="image">
-                            <img src="img/thumbs/37-25.jpg" alt="" />
+                            <img src="img/logo/software.jpg" alt="" />
                             <div
                               className="main"
-                              data-img-url="img/timeline/3.jpg"
+                              data-img-url="img/logo/software.jpg"
                             />
                           </div>
                         </div>

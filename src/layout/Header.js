@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container bigger">
         <div className="header_in">
           <div className="logo">
-            <a href="#">
+            <a href="/">
               <img src="img/logo/logo.png" width="50" height="40" alt="" />
             </a>
           </div>
@@ -24,7 +24,7 @@ const Header = () => {
                 <a href="#about">About</a>
               </li>
               <li>
-                <a href="#news">Portfolio</a>
+                <a href="#portfolio">Portfolio</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
@@ -33,36 +33,32 @@ const Header = () => {
             <span className="ccc" />
           </div>
           <div className="follow">
-            <span>Follow Us:</span>
+            <span>Follow Me:</span>
             <ul>
               <li>
-                <a href="#">
+                <a href="https://www.youtube.com/embed/exb1Yel-fTM" >
                   <img
                     className="svg"
-                    src="img/svg/social/facebook.svg"
+                    src="img/svg/social/youtube.svg"
                     alt=""
                   />
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://wa.me/86572648" target="_blank" rel="noreferrer">
                   <img
                     className="svg"
-                    src="img/svg/social/twitter.svg"
+                    src="img/svg/social/whatapp.svg"
                     alt=""
                   />
                 </a>
               </li>
               <li>
-                <a href="#">
-                  <img className="svg" src="img/svg/social/vimeo.svg" alt="" />
+                <a href="mailto:sawmukahbaw191@gmail.com">
+                  <img className="svg" src="img/svg/social/mail.svg" alt="" />
                 </a>
               </li>
-              <li>
-                <a href="#">
-                  <img className="svg" src="img/svg/social/skype.svg" alt="" />
-                </a>
-              </li>
+              
             </ul>
           </div>
         </div>

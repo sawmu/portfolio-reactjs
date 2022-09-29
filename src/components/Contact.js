@@ -38,26 +38,10 @@ const Contact = () => {
               <div className="right">
                 <div className="social">
                   <ul>
+                    
+            
                     <li>
-                      <a href="#">
-                        <img
-                          className="svg"
-                          src="img/svg/social/facebook-stroke.svg"
-                          alt=""
-                        />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <img
-                          className="svg"
-                          src="img/svg/social/twitter-stroke.svg"
-                          alt=""
-                        />
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
+                      <a href="https://www.linkedin.com/in/mukahbaw/"  target="_blank" rel="noreferrer">
                         <img
                           className="svg"
                           src="img/svg/social/linkedin-stroke.svg"
@@ -66,7 +50,7 @@ const Contact = () => {
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://www.instagram.com/mukahbaw/"  target="_blank" rel="noreferrer">
                         <img
                           className="svg"
                           src="img/svg/social/instagram-stroke.svg"

@@ -40,85 +40,79 @@ const News = () => {
   };
   const blogData = [
     {
-      title: "Morisson Says when the musics over turn light",
-      img: "img/news/1.jpg",
+      title: "The Artists",
+      img: "img/news/p5.jpg",
       dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+
+        "Project : Web Development",
+        "Duration : 2 Days",
+        "Technologies : ReactJs, NextJs, Tailwind, Sanity",
+        "Link : www.artists.mukabaw.com",
       ],
-      date: "22 May-2022",
+      date: "Web Development",
     },
     {
-      title: "How to be appreciated for your hard work",
-      img: "img/news/2.jpg",
+      title: "Khoo Teck Puat Hospital",
+      img: "img/news/p2.jpg",
       dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+
+        "Project : Re-Design and Development",
+        "Client : Khoo Teck Puat Hospital",
+        "Duration : 2.5 Months",
+        "Technologies : HTMI, CSS, Javascript, Bootstrap",
+        "Link : www.ktph.com.sg",
       ],
-      date: "15 May-2022",
+      date: "Web Development",
     },
     {
-      title: "Standard size of business agency Consulating",
-      img: "img/news/3.jpg",
+      title: "Yoga Nation",
+      img: "img/news/p1.jpg",
       dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+        "Project : ECOMMERCE WEBSITE",
+        "Client : Yoga Nation",
+        "Duration : 7 DAYS",
+        "Technologies : WordPress",
+        "Link : www.yoganation.com.sg",
       ],
-      date: "07 May-2022",
+      date: "Web Development",
     },
     {
-      title: "Standard size of business agency Consulating",
-      img: "img/news/3.jpg",
+      title: "Chin Aik Co.(Pte)Ltd",
+      img: "img/news/p3.jpg",
       dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+        "Project : ECOMMERCE WEBSITE",
+        "Client : Chin Aik",
+        "Duration : 7 DAYS",
+        "Technologies : OpenCart",
+        "Link : www.chinaik.com.sg",
       ],
-      date: "07 May-2022",
+      date: "Web Development",
     },
     {
-      title: "Standard size of business agency Consulating",
-      img: "img/news/3.jpg",
+      title: "Mei Fan",
+      img: "img/news/p4.jpg",
       dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+        "Project : ECOMMERCE WEBSITE",
+        "Client : Mei Fan",
+        "Duration : 7 DAYS",
+        "Technologies : OpenCart",
+        "Link : www.mandfcoffeesolutions.com.sg",
       ],
-      date: "07 May-2022",
+      date: "Web Development",
     },
     {
-      title: "Standard size of business agency Consulating",
-      img: "img/news/3.jpg",
+      title: "ASCM Kitchen Pro",
+      img: "img/news/p6.jpg",
       dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
+        "Project : ECOMMERCE WEBSITE",
+        "Client :ASCM Kitchen Pro",
+        "Duration : 7 DAYS",
+        "Technologies : OpenCart",
+        "Link : www.mandfcoffeesolutions.com.sg",
       ],
-      date: "07 May-2022",
+      date: "Web Development",
     },
-    {
-      title: "Standard size of business agency Consulating",
-      img: "img/news/3.jpg",
-      dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
-      ],
-      date: "07 May-2022",
-    },
-    {
-      title: "Standard size of business agency Consulating",
-      img: "img/news/3.jpg",
-      dec: [
-        "Tonni is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-        "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-        "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business.",
-      ],
-      date: "07 May-2022",
-    },
+ 
   ];
   const [activeBlogData, setActiveBlogData] = useState();
   const [activeBlog, setActiveBlog] = useState(false);
@@ -129,7 +123,7 @@ const News = () => {
         show={activeBlog}
         blogData={activeBlogData}
       />
-      <div className="tonni_tm_section" id="news">
+      <div className="tonni_tm_section" id="portfolio">
         <div className="tonni_tm_news">
           <div className="container bigger">
             <div className="news_inner">
@@ -140,8 +134,10 @@ const News = () => {
                   </div>
                   <div className="subtitle">
                     <p>
-                      Fusce sollicitudin eros id ex maximus gravida non vitae
-                      ante. Cras ac mi a dolor suscipit rutrum ut vitae mi.
+                    Proficient in
+various platforms, languages, and embedded systems. I’m a very
+passionate Coding that’s always wanting to grow, learn and try
+something new.
                     </p>
                   </div>
                 </div>
@@ -182,6 +178,7 @@ const News = () => {
                               >
                                 {blog.title}
                               </a>
+                            
                             </h3>
                           </div>
                         </div>
