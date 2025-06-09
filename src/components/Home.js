@@ -14,7 +14,7 @@ const Home = () => {
                 <br />
                 MuKaHbaw
               </h3>
-              <span className="welcome">Frontend Developer</span>
+              <span className="welcome">UI UX Designer / Frontend Developer</span>
               <div className="tonni_tm_button">
                 <a className="anchor" href="#portfolio">
                   See All Projects{" "}
